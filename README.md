@@ -21,3 +21,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augnik03&" alt="aditi-138" /></p
+## GitHub Stats
+
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditi-138&show_icons=true&theme=radical)
