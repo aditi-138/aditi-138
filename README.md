@@ -27,4 +27,4 @@
 
 
 ---
-![LeetCode Stats](https://leetcode.card.workers.dev/aditigh_24?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.com/u/aditi_gh24/)
