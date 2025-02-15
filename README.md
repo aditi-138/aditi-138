@@ -1,14 +1,14 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 <h1 align="center">💫 About Me: </h1>
-🔭 I’m currently studying in SRMIST<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/aditi-ghosh-b16bb6276//<br><br>📫 How to reach me aditighosh138@gmail.com<br><br>
+🔭 I’m currently a second year studying in SRMIST.I am learning Web Development and Machine Learning<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/aditi-ghosh-b16bb6276//<br><br>📫 How to reach me aditighosh138@gmail.com<br><br>
 
 
 ## 🌐 Socials:
 <h3>Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditi-ghosh-b16bb6276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-ghosh-b16bb6276/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/punittt_pj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pattseheadshot2413" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pattseheadshot2413/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pattseheadshot2413" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/potter_jennie24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/jpunit2005" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/aditigh_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aditigh_24/" height="30" width="40" /></a>
 </p>
